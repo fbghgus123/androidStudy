@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "study"
 include ':app'
 include ':ch8_event'
+include ':ch9_resource'
