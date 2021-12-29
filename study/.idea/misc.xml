@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="ch10_notification/src/main/res/layout/activity_main.xml" value="0.2740628166160081" />
+        <entry key="ch11_jetpack/src/main/res/layout/activity_main.xml" value="0.32563405797101447" />
+        <entry key="ch11_jetpack/src/main/res/layout/fragment_one.xml" value="0.2712962962962963" />
+        <entry key="ch11_jetpack/src/main/res/layout/fragment_two.xml" value="0.2712962962962963" />
+        <entry key="ch11_jetpack/src/main/res/layout/item_recyclerview.xml" value="0.2712962962962963" />
+        <entry key="ch11_jetpack/src/main/res/menu/menu_main.xml" value="0.5635416666666667" />
         <entry key="ch8_event/src/main/res/drawable/round_button.xml" value="0.1824074074074074" />
         <entry key="ch8_event/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
         <entry key="ch9_resource/src/main/res/drawable/round_button.xml" value="0.22592592592592592" />
