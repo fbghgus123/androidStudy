@@ -16,7 +16,9 @@
         <entry key="ch14_receiver/src/main/res/layout/activity_main.xml" value="0.24537037037037038" />
         <entry key="ch16_provider/src/main/res/xml/file_paths.xml" value="0.15070921985815602" />
         <entry key="ch17_database/src/main/res/layout/activity_setting.xml" value="0.17685185185185184" />
+        <entry key="ch17_database/src/main/res/layout/fragment_my_setting.xml" value="0.15932117527862208" />
         <entry key="ch17_database/src/main/res/xml/settings.xml" value="0.17685185185185184" />
+        <entry key="ch18_network/src/main/res/menu/menu_main.xml" value="0.1638888888888889" />
         <entry key="ch8_event/src/main/res/drawable/round_button.xml" value="0.1824074074074074" />
         <entry key="ch8_event/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
         <entry key="ch9_resource/src/main/res/drawable/round_button.xml" value="0.22592592592592592" />
